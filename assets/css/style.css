@@ -45,7 +45,7 @@ a {
 }
 
 a:hover {
-  color: #ff3333;
+  color: #c0e4f4 !important ;
   text-decoration: none;
 }
 
