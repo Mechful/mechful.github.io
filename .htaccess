@@ -1,1 +1,3 @@
-﻿Redirect 301 /discord https://discord.gg/JkZt9DK
+﻿RewriteEngine on
+# 301 Redirect URLs.
+Redirect 301 /discord https://discord.gg/JkZt9DK
