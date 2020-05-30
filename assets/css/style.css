@@ -31,7 +31,7 @@ body::before {
   right: 0;
   top: 0;
   bottom: 0;
-  background: rgba(34, 34, 34, 0.8);
+  background: #18181b;
 }
 
 @media (min-width: 1024px) {
