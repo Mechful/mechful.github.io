@@ -51,7 +51,7 @@ a:hover {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "FFF Aquarius Bold Condensed", sans-serif;
-  src: url(" ./assets/fonts/YanoneKaffeesatz-Regular.ttf");
+  src: url(" assets/fonts/YanoneKaffeesatz-Regular.ttf");
   padding-top: 15px;
 }
 
