@@ -51,6 +51,7 @@ a:hover {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
+  padding-top: 15px;
 }
 
 #main {
@@ -250,7 +251,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .social-links {
-  margin-top: 10px;
+  /*margin-top: 10px;*/
 }
 
 #header .social-links a {
