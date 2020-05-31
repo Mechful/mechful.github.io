@@ -23,8 +23,8 @@ body {
 }
 
 div.image {
-   width:300px; /*width of your image*/
-   height:76px; /*height of your image*/
+   width:739px; /*width of your image*/
+   height:163px; /*height of your image*/
    background-image:url("../img/logo.png");
    margin:0; /* If you want no margin */
    padding:0; /*if your want to padding */
@@ -114,7 +114,7 @@ h1, h2, h3, h4, h5, h6 {
 #header h2 {
   color: #eee;
   margin-bottom: 20px;
-  font-size: 17px;
+  font-size: 15px;
 }
 
 @-webkit-keyframes animate-loading-notify {
